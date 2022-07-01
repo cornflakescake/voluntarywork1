@@ -1,0 +1,216 @@
+html{
+  display: flex;
+  aling-items: center;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+   padding: 0;
+    margin: 0;
+}
+
+@font-face {
+  font-family: cutefont;
+  src: url(helloketa.ttf);
+}
+
+@font-face {
+  font-family: milagros;
+  src: url(littlemiracles.ttf);
+}
+
+.intro {
+   background-image: url("foto replit.jpg");
+   min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.intro h1{
+  font-family: milagros;
+  font-size: 100px;
+  color: #6c1e6c;
+  text-shadow: 2px 2px pink;
+}
+
+body {
+  background-image: radial-gradient(#D4CB6A, #95add0) ;
+}
+
+
+  
+
+h2{
+font-family: cutefont;
+font-size: 60px;
+}
+
+
+
+
+
+
+.topnav {
+background-color: #cfcfcf;
+overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #9d6c8e;
+  padding: 30px;
+  text-decoration:none;
+  font-size: 65px;
+  font-family: cutefont;
+}
+
+.topnav a:hover {
+  background-color: #f5f5f5;
+  color: purple;
+}
+
+p {
+  font-family: verdana;
+}
+  
+
+.picture1 {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+ 
+}
+
+.picture2 {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.part1{
+  display:flex;
+  width: 100%;
+  border:solid;
+}
+
+  .part12 {
+ background-color: #f7f7f7;
+}
+
+.part12 h2 {
+  color: #039b93;
+  font-size: 70px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  }
+
+.part1 {
+  margin-bottom: 40px;
+}
+
+h1 {
+font-family: milagros;
+}
+  
+.part21 h1 {
+  font-size: 70px;
+  color: #615fdd
+}
+
+.part21 p {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom:5%;
+}
+.part22 {
+  display:flex;
+  width: 100%;
+  border: white;
+}
+.picture4 {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%
+  
+}
+
+.part3 {
+   background-image: url("backkk.jpg");
+   min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.part3 a:hover {
+background-color: #d98282;
+color: #b12f2f;
+}
+
+
+.part40  h1 {
+  color: #039b93;
+  font-size: 70px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+
+.part5 {
+  background-color: #cfcfcf;
+}
+
+.part5 p {
+  font-family: cutefont;
+  color:#9d6c8e;
+
+}
+.part55 {
+  margin-left: 60px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.feed1 {
+  background-image: url("background.jpg");
+   min-height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.me1 {
+background-image: url("sunny.webp");
+   min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.me2 p {
+ font-size: 60px;
+  font-family: cutefont;
+}
+.me2 h2 {
+  font-family: milagros;
+}
+
+.me20 {
+  display:flex;
+  width: 100%;
+  border:solid;
+}
+
+.imgme {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
